@@ -1,0 +1,56 @@
+[33mcommit 9c2d31688e0a0db3f01aced31cc4542854735fff[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m)[m
+Merge: aba2fbc 15f5890
+Author: akhilsighakolli <sighakolliakhilguptha@gmail.com>
+Date:   Mon Nov 13 09:32:22 2023 +0530
+
+    merge conflict resolved
+
+[33mcommit aba2fbc1d279d07bbc9bf3042c2c604bb01bd91f[m[33m ([m[1;31morigin/practice101[m[33m, [m[1;32mpractice101[m[33m)[m
+Author: akhilsighakolli <sighakolliakhilguptha@gmail.com>
+Date:   Mon Nov 13 09:13:45 2023 +0530
+
+    pacticefiles are added
+
+[33mcommit 15f5890813b1e79f9ad173c5eebaa07a09e0c056[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 2ad484d b0d95b1
+Author: akhilsighakolli <150441227+akhilsighakolli@users.noreply.github.com>
+Date:   Sat Nov 11 14:19:13 2023 +0530
+
+    Merge pull request #2 from akhilsighakolli/feature102
+    
+    added new features in file1 from features102
+
+[33mcommit b0d95b1c376edaf40f05b3eb44af19a7f29f62b5[m
+Merge: 406dc4a 2ad484d
+Author: akhilsighakolli <150441227+akhilsighakolli@users.noreply.github.com>
+Date:   Sat Nov 11 14:19:04 2023 +0530
+
+    Merge branch 'main' into feature102
+
+[33mcommit 2ad484d90c4d750a15aed5a855acd6e03b89fda3[m
+Merge: ffe6688 3995989
+Author: akhilsighakolli <150441227+akhilsighakolli@users.noreply.github.com>
+Date:   Sat Nov 11 14:17:46 2023 +0530
+
+    Merge pull request #1 from akhilsighakolli/feature101
+    
+    Update file1
+
+[33mcommit 3995989c08907ed350be72cf84ee8adcff61af27[m
+Merge: 8850ee3 ffe6688
+Author: akhilsighakolli <150441227+akhilsighakolli@users.noreply.github.com>
+Date:   Sat Nov 11 14:17:29 2023 +0530
+
+    Merge branch 'main' into feature101
+
+[33mcommit ffe6688396e297ba33c77cc9672e5e84ab79c8f1[m
+Author: akhilsighakolli <150441227+akhilsighakolli@users.noreply.github.com>
+Date:   Sat Nov 11 14:16:33 2023 +0530
+
+    Update file1
+
+[33mcommit 8850ee3cedc25acbd35a1d59c1d5a2e8172b40d7[m
+Author: akhilsighakolli <150441227+akhilsighakolli@users.noreply.github.com>
+Date:   Sat Nov 11 14:06:10 2023 +0530
+
+    Update file1
